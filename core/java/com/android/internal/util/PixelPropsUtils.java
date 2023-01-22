@@ -42,7 +42,7 @@ public class PixelPropsUtils {
         "DEVICE", "redfin",
         "PRODUCT", "redfin",
         "MODEL", "Pixel 5",
-        "FINGERPRINT", "google/redfin/redfin:13/TQ1A.221205.011/9244662:user/release-keys"
+        "FINGERPRINT", "google/redfin/redfin:13/TQ1A.230105.001/9292298:user/release-keys"
     );
 
     private static final Map<String, Object> sPixelXLProps = Map.of(
