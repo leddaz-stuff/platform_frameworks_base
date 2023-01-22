@@ -60,6 +60,18 @@ public class PixelPropsUtils {
     );
 
     private static final Set<String> sPackageWhitelist = Set.of(
+        "com.google.android.GoogleCamera",
+        "com.google.android.GoogleCamera.Cameight",
+        "com.google.android.GoogleCamera.Go",
+        "com.google.android.GoogleCamera.Urnyx",
+        "com.google.android.GoogleCameraAsp",
+        "com.google.android.GoogleCameraCVM",
+        "com.google.android.GoogleCameraEng",
+        "com.google.android.GoogleCameraEng2",
+        "com.google.android.GoogleCameraGood",
+        "com.google.android.MTCL83",
+        "com.google.android.UltraCVM",
+        "com.google.android.apps.cameralite",
         "com.google.android.dialer",
         "com.google.android.euicc",
         "com.google.android.youtube",
@@ -67,7 +79,8 @@ public class PixelPropsUtils {
         "com.google.android.apps.youtube.music",
         "com.google.android.apps.recorder",
         "com.google.android.apps.wearables.maestro.companion",
-        "com.google.android.settings.intelligence"
+        "com.google.android.settings.intelligence",
+        "com.google.ar.core"
     );
 
     private static final Set<String> sFeatureBlacklist = Set.of(
